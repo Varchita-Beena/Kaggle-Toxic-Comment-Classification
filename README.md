@@ -1,5 +1,5 @@
 # Kaggle-Toxic-Comment-Classification
-##Dataset
+## Dataset
 The dataset is available :- https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge <br>
 This is multi-class classification problem <br>
 Total classes 6: <br>
@@ -10,7 +10,7 @@ Threat<br>
 Insult<br>
 Identity_hate<br>
 
-##Idea of code<br>
+## Idea of code<br>
 
 Word embeddings are made for every word.<br>
 They are averaged for every sentence, so for every sentence we will get some encoding <br>
