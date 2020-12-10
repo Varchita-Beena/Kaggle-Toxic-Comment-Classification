@@ -12,11 +12,11 @@ Identity_hate<br>
 
 ## Idea of code<br>
 
-Word embeddings are made for every word.<br>
+Word embeddings are made for every word using word2vec .<br>
 They are averaged for every sentence, so for every sentence we will get some encoding <br>
 Then cmeans (fuzzy clustering or soft clustering so that it can be classified in to more than one class) is used to get the membership for clusters<br>
 
-Word embeddings are made for every word.<br>
+Word embeddings are made for every word using word2vec.<br>
 They are sent to RNN to get the encoding for every sentence <br>
 Then cmeans (fuzzy clustering or soft clustering so that it can be classified in to more than one class) is used to get the membership for clusters<br>
 
